@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-const schoolRoutes = require("./routes/schoolRoutes");
+const schoolRoutes = require("./routes/temp");
 
 const app = express();
 
@@ -20,7 +20,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-const schoolRoutes = require("./routes/schoolRoutes");
+const schoolRoutes = require("./routes/temp");
 
 const app = express();
 
