@@ -2,15 +2,10 @@
   "name": "school-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-<<<<<<< HEAD
-  "start": "node server.js"
-},
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
->>>>>>> c671a866d771ab6b05e8537e1dbebf81ff24e30e
   "keywords": [],
   "author": "",
   "license": "ISC",
